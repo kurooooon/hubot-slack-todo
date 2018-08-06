@@ -1,3 +1,10 @@
+# Getting Started
+add: BOT_NAME todo XXX: (add task XXX)
+done: BOT_NAME done XXX: (done task XXX)
+del: BOT_NAME del XXX: (delete task XXX)
+list: BOT_NAME list XXX (show not done task list)
+donelist: BOT_NAME donelist XXX: (show done task list)
+
 # hubot-todo
 
 hubot-todo is a chat bot built on the [Hubot][hubot] framework. It was
